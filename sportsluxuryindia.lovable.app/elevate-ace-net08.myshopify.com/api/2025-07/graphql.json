@@ -1,0 +1,405 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/10224375791901",
+            "title": "Casio G-Shock",
+            "description": "G-Shock Shock Resistant Sports Watch Get ready for any adventure with a watch built for tough conditions. This rugged sports watch combines a classic analog face with modern digital screens, giving you the best of both worlds. The thick, shock-resistant case protects it from drops and bumps, making it the perfect choice for sports, outdoor activities, or daily wear.",
+            "handle": "g-shock-red-edition-shock-resistant-sports-watch",
+            "productType": "Watch",
+            "tags": ["Watch"],
+            "priceRange": {
+              "minVariantPrice": { "amount": "1199.0", "currencyCode": "INR" }
+            },
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PHOTO.jpg?v=1781684159",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PIC_-_Copy_89a9f673-2339-4487-a2e3-ab2a54160302.jpg?v=1781685220",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PLAIN_PHOTO_59bf5cb7-c61e-46c0-b263-ad59f61217eb.jpg?v=1781685357",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/W.jpg?v=1781685518",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/WhatsApp_Image_2026-06-11_at_10.56.31_PM_-_Copy_195906e6-04ea-40a0-a1de-b394bca1e091.jpg?v=1781685536",
+                    "altText": null
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51888966205725",
+                    "title": "Olive Green",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Olive Green" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/green_olive_G-Shock_1a85bd3e-700c-4a8b-874f-a27491966e9b.png?v=1781794056",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51888978329885",
+                    "title": "Blue",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Blue" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PIC_-_Copy_89a9f673-2339-4487-a2e3-ab2a54160302.jpg?v=1781685220",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51888993206557",
+                    "title": "Black",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Black" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/black_G-Shock.png?v=1781775362",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51888993239325",
+                    "title": "Orange",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Orange" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/WhatsApp_Image_2026-06-11_at_10.56.31_PM_-_Copy_195906e6-04ea-40a0-a1de-b394bca1e091.jpg?v=1781685536",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51888993272093",
+                    "title": "Red",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Red" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PHOTO.jpg?v=1781684159",
+                      "altText": null
+                    }
+                  }
+                }
+              ]
+            },
+            "options": [
+              {
+                "name": "Band color",
+                "values": ["Olive Green", "Blue", "Black", "Orange", "Red"]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10231466393885",
+            "title": "G-Shock Blue Edition Shock Resistant Sports Watch",
+            "description": "Introducing the G-Shock Blue Edition Shock Resistant Sports Watch, a perfect blend of style and durability. This watch is designed for those who lead an active lifestyle, offering exceptional shock resistance and water resistance to withstand any adventure.",
+            "handle": "g-shock-red-edition-shock-resistant-sports-watch-copy",
+            "productType": "Watch",
+            "tags": ["Watch"],
+            "priceRange": {
+              "minVariantPrice": { "amount": "1199.0", "currencyCode": "INR" }
+            },
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PIC_-_Copy_89a9f673-2339-4487-a2e3-ab2a54160302.jpg?v=1781685220",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PHOTO.jpg?v=1781684159",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PLAIN_PHOTO_59bf5cb7-c61e-46c0-b263-ad59f61217eb.jpg?v=1781685357",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/W.jpg?v=1781685518",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/WhatsApp_Image_2026-06-11_at_10.56.31_PM_-_Copy_195906e6-04ea-40a0-a1de-b394bca1e091.jpg?v=1781685536",
+                    "altText": null
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51889030005021",
+                    "title": "Olive Green",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Olive Green" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PLAIN_PHOTO_59bf5cb7-c61e-46c0-b263-ad59f61217eb.jpg?v=1781685357",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51889030037789",
+                    "title": "Blue",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Blue" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PIC_-_Copy_89a9f673-2339-4487-a2e3-ab2a54160302.jpg?v=1781685220",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51889030070557",
+                    "title": "Black",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Black" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/black_G-Shock_7faee22d-1af9-477e-a634-31576c5b26d9.png?v=1781775882",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51889030103325",
+                    "title": "Orange",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Orange" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/WhatsApp_Image_2026-06-11_at_10.56.31_PM_-_Copy_195906e6-04ea-40a0-a1de-b394bca1e091.jpg?v=1781685536",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51889030136093",
+                    "title": "Red",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Red" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PHOTO.jpg?v=1781684159",
+                      "altText": null
+                    }
+                  }
+                }
+              ]
+            },
+            "options": [
+              {
+                "name": "Band color",
+                "values": ["Olive Green", "Blue", "Black", "Orange", "Red"]
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/10233315000605",
+            "title": "G-Shock Olive Green Edition Shock Resistant Sports Watch",
+            "description": "G-Shock Olive Green Edition Shock Resistant Sports Watch Get ready for any adventure with a watch built for tough conditions. This rugged, military-inspired sports watch combines a classic analog face with modern digital screens, giving you the best of both worlds. The thick, shock-resistant case protects it from drops and bumps, making it the perfect choice for outdoor activities, the gym, or daily wear.",
+            "handle": "g-shock-olive-green-edition-shock-resistant-sports-watch",
+            "productType": "Watch",
+            "tags": ["Watch"],
+            "priceRange": {
+              "minVariantPrice": { "amount": "1199.0", "currencyCode": "INR" }
+            },
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/green_olive_G-Shock.png?v=1781777361",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PLAIN_PHOTO_59bf5cb7-c61e-46c0-b263-ad59f61217eb.jpg?v=1781685357",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PIC_-_Copy_89a9f673-2339-4487-a2e3-ab2a54160302.jpg?v=1781685220",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/PHOTO.jpg?v=1781684159",
+                    "altText": null
+                  }
+                },
+                {
+                  "node": {
+                    "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/W.jpg?v=1781685518",
+                    "altText": null
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51895059677469",
+                    "title": "Blue",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Blue" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/Blue_G-Shock.png?v=1781777968",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51895059710237",
+                    "title": "Black",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Black" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/black_G-Shock_7faee22d-1af9-477e-a634-31576c5b26d9.png?v=1781775882",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51895059743005",
+                    "title": "Orange",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Orange" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/Orange_G-Shock.png?v=1781777734",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51895059775773",
+                    "title": "Red",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Red" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/green_olive_G-Shock.png?v=1781777361",
+                      "altText": null
+                    }
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/51896630182173",
+                    "title": "Olive Green",
+                    "price": { "amount": "1199.0", "currencyCode": "INR" },
+                    "availableForSale": true,
+                    "selectedOptions": [
+                      { "name": "Band color", "value": "Olive Green" }
+                    ],
+                    "image": {
+                      "url": "https://cdn.shopify.com/s/files/1/0997/6899/2029/files/green_olive_G-Shock.png?v=1781777361",
+                      "altText": null
+                    }
+                  }
+                }
+              ]
+            },
+            "options": [
+              {
+                "name": "Band color",
+                "values": ["Blue", "Black", "Orange", "Red", "Olive Green"]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "extensions": { "cost": { "requestedQueryCost": 153 } }
+}
